@@ -19,3 +19,11 @@
     background:rgb(230, 100, 77);
     color:#fff;
 }
+
+@media only screen and (max-width: 600px) {
+.bike-container{
+    align-items: center;
+    justify-content: center;
+}
+
+}
