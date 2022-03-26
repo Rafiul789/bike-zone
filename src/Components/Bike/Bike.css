@@ -12,3 +12,10 @@
     border-radius: 10px;
     padding: 10px;
 }
+
+.addCart-btn{
+    border-radius:10px;
+    border:0;
+    background:rgb(230, 100, 77);
+    color:#fff;
+}
