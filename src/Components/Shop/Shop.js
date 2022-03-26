@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Bike from '../Bike/Bike';
 import './Shop.css'
 
 const Shop = () => {
@@ -13,7 +14,7 @@ fetch('bikes.json')
     return (
         <div  className="shop-container">
             <div className="product-container">
-<h1>Products:{bikes.length}</h1>
+{bikes.map(bike=><Bike key={bike.id} bike={bike} ></Bike>)}
             </div> <div className="order-container">
 <h1>Order</h1>
             </div>

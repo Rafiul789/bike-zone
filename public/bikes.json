@@ -6,9 +6,9 @@
       "seller": "Yamaha",
       "price": 125000,
     
-      "ratings": 4,
+      "ratings": 4.2,
      
-      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.jpg"
      
     }, 
     {
@@ -16,9 +16,9 @@
      
       "name": "Yamaha R15 V3",
       "seller": "Yamaha",
-      "price": 125000,
+      "price": 495000,
     
-      "ratings": 4,
+      "ratings": 4.9,
      
       "img": "https://i.ibb.co/0y0tJmX/2020-YZF-R15-DPBMC-AUS-STU-003-800x600.jpg"
      
@@ -26,124 +26,123 @@
     {
       "id": 3,
      
-      "name": "Yamaha Saluto 125",
+      "name": "Yamaha Fazer",
       "seller": "Yamaha",
-      "price": 125000,
+      "price": 275000,
     
-      "ratings": 4,
+      "ratings": 4.2,
      
-      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+      "img": "https://i.ibb.co/F3kSFWw/2019-yamaha-fazer-25-abs.jpg"
      
     }, 
     {
       "id": 4,
      
-      "name": "Yamaha Saluto 125",
+      "name": "Yamaha  MT15",
       "seller": "Yamaha",
-      "price": 125000,
+      "price": 385000,
     
-      "ratings": 4,
+      "ratings": 4.5,
      
-      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+      "img": "https://i.ibb.co/D1QvLZz/Yamaha-MT-15-Black.png"
      
     }, 
     {
       "id": 5,
      
-      "name": "Yamaha Saluto 125",
+      "name": "Yamaha RX-100",
       "seller": "Yamaha",
-      "price": 125000,
+      "price": 135000,
     
-      "ratings": 4,
+      "ratings": 4.7,
      
-      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+      "img": "https://i.ibb.co/5sK39Mt/925022652s.jpg"
      
     }, 
     {
       "id": 6,
      
-      "name": "Yamaha Saluto 125",
-      "seller": "Yamaha",
-      "price": 125000,
+      "name": "Suzuki Gixxer SF 150",
+      "seller": "Suzuki",
+      "price": 295000,
     
-      "ratings": 4,
+      "ratings": 4.4,
      
-      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+      "img": "https://i.ibb.co/vJTVJnb/3-63.jpg"
      
     }, 
     {
       "id": 7,
      
-      "name": "Yamaha Saluto 125",
-      "seller": "Yamaha",
-      "price": 125000,
+      "name": "Suzuki Gixxer FI ABS",
+      "seller": "Suzuki",
+      "price": 245000,
     
-      "ratings": 4,
+      "ratings": 4.6,
      
-      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+      "img": "https://i.ibb.co/25W2tnT/suzuki-gixer-155-abs.png"
      
     }, 
     {
       "id": 8,
      
-      "name": "Yamaha Saluto 125",
-      "seller": "Yamaha",
-      "price": 125000,
+      "name": "Suzuki GSXR 150",
+      "seller": "Suzuki",
+      "price": 415000,
     
-      "ratings": 4,
+      "ratings": 4.8,
      
-      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+      "img": "https://i.ibb.co/1RstKhc/new-2019-suzuki-gsx-r-met-tritone-blue-keyless-ign-f16d.jpg"
      
     }, 
     {
       "id": 9,
      
-      "name": "Yamaha Saluto 125",
-      "seller": "Yamaha",
+      "name": "Suzuki Hayate",
+      "seller": "Suzuki",
       "price": 125000,
     
-      "ratings": 4,
+      "ratings": 4.5,
      
-      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+      "img":  "https://i.ibb.co/dcgrMyj/suzuki-hayate-ep.jpg "
      
     }, 
     {
       "id": 10,
      
-      "name": "Yamaha Saluto 125",
-      "seller": "Yamaha",
-      "price": 125000,
+      "name": "Bajaj Pulser",
+      "seller": "Bajaj",
+      "price": 165000,
     
-      "ratings": 4,
+      "ratings": 4.1,
      
-      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+      "img": "https://i.ibb.co/RbStf63/bajaj-pulsar-150-neon-silver.jpg"
      
     }, 
     {
       "id": 11,
      
-      "name": "Yamaha Saluto 125",
-      "seller": "Yamaha",
+      "name": "Bajaj Discover 125",
+      "seller": "Bajaj",
       "price": 125000,
     
-      "ratings": 4,
+      "ratings": 4.5,
      
-      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+      "img": "https://i.ibb.co/VHzNS2d/bajaj-125-disc-1464785913.jpg"
      
     }, 
     {
       "id": 12,
      
-      "name": "Yamaha Saluto 125",
-      "seller": "Yamaha",
-      "price": 125000,
+      "name": "Bajaj NS 125",
+      "seller": "Bajaj",
+      "price": 185000,
     
-      "ratings": 4,
+      "ratings": 4.2,
      
-      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+      "img": "https://i.ibb.co/TthR6Q5/bajaj-pulsar-ns-125.jpg"
      
     }
 
 
-
-]
+  ]

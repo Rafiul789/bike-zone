@@ -1,5 +1,6 @@
 
 import './App.css';
+import Bike from './Components/Bike/Bike';
 import Header from './Components/Header/Header';
 import Shop from './Components/Shop/Shop';
 
@@ -9,6 +10,7 @@ function App() {
     <div >
     <Header></Header>
     <Shop></Shop>
+   
     </div>
   );
 }

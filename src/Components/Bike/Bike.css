@@ -1,0 +1,14 @@
+.bike-container{
+    display:grid;
+}
+
+.bike-container img{
+    height:200px;
+    width:260px;
+}
+
+.description{
+    background-color:rgba(196, 184, 184, 0.493);
+    border-radius: 10px;
+    padding: 10px;
+}
