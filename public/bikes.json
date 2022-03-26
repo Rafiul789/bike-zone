@@ -1,6 +1,6 @@
 [
     {
-      "id": "1",
+      "id": 1,
      
       "name": "Yamaha Saluto 125",
       "seller": "Yamaha",
@@ -10,4 +10,140 @@
      
       "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
      
-    }]
+    }, 
+    {
+      "id": 2,
+     
+      "name": "Yamaha R15 V3",
+      "seller": "Yamaha",
+      "price": 125000,
+    
+      "ratings": 4,
+     
+      "img": "https://i.ibb.co/0y0tJmX/2020-YZF-R15-DPBMC-AUS-STU-003-800x600.jpg"
+     
+    }, 
+    {
+      "id": 3,
+     
+      "name": "Yamaha Saluto 125",
+      "seller": "Yamaha",
+      "price": 125000,
+    
+      "ratings": 4,
+     
+      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+     
+    }, 
+    {
+      "id": 4,
+     
+      "name": "Yamaha Saluto 125",
+      "seller": "Yamaha",
+      "price": 125000,
+    
+      "ratings": 4,
+     
+      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+     
+    }, 
+    {
+      "id": 5,
+     
+      "name": "Yamaha Saluto 125",
+      "seller": "Yamaha",
+      "price": 125000,
+    
+      "ratings": 4,
+     
+      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+     
+    }, 
+    {
+      "id": 6,
+     
+      "name": "Yamaha Saluto 125",
+      "seller": "Yamaha",
+      "price": 125000,
+    
+      "ratings": 4,
+     
+      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+     
+    }, 
+    {
+      "id": 7,
+     
+      "name": "Yamaha Saluto 125",
+      "seller": "Yamaha",
+      "price": 125000,
+    
+      "ratings": 4,
+     
+      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+     
+    }, 
+    {
+      "id": 8,
+     
+      "name": "Yamaha Saluto 125",
+      "seller": "Yamaha",
+      "price": 125000,
+    
+      "ratings": 4,
+     
+      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+     
+    }, 
+    {
+      "id": 9,
+     
+      "name": "Yamaha Saluto 125",
+      "seller": "Yamaha",
+      "price": 125000,
+    
+      "ratings": 4,
+     
+      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+     
+    }, 
+    {
+      "id": 10,
+     
+      "name": "Yamaha Saluto 125",
+      "seller": "Yamaha",
+      "price": 125000,
+    
+      "ratings": 4,
+     
+      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+     
+    }, 
+    {
+      "id": 11,
+     
+      "name": "Yamaha Saluto 125",
+      "seller": "Yamaha",
+      "price": 125000,
+    
+      "ratings": 4,
+     
+      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+     
+    }, 
+    {
+      "id": 12,
+     
+      "name": "Yamaha Saluto 125",
+      "seller": "Yamaha",
+      "price": 125000,
+    
+      "ratings": 4,
+     
+      "img": "https://i.ibb.co/LCTQ3qb/saluto-disc-blue-diamond-1559561317.webp"
+     
+    }
+
+
+
+]
