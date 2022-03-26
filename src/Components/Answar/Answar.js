@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './Answar.css'
 const Answar = () => {
     return (
         <div  className="answar-container">
