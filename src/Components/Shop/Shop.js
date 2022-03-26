@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Bike from '../Bike/Bike';
+import Cart from '../Cart/Cart';
 
 import './Shop.css'
 
@@ -7,7 +8,7 @@ const Shop = () => {
     const[bikes,setBikes]=useState([])
 const[cart,setCart]=useState([])
 
-const[add,setItem]=useState([])
+
 
     useEffect(()=>{
 fetch('bikes.json')
@@ -20,23 +21,21 @@ fetch('bikes.json')
         const newCart=[...cart,bike]
         setCart(newCart)
     }
-// const chooseItem=(add)=>{
-//     let random = add[Math.floor(Math.random()*add.length)];
-//     setItem(random)
-// }
+
+    const removeItem=()=>{
+        setCart([])
+    }
+
 
     return (
         <div  className="shop-container">
             <div className="product-container">
 {bikes.map(bike=><Bike key={bike.id} bike={bike} handleCart={handleCart}  ></Bike>)}
             </div> <div className="cart-container">
-<h3>Order</h3>      {cart.map((item) => (
-    
-     <h3 key={item.id} >{item.name}</h3> 
-          
-        ))}  
+<h3>Order</h3>   <Cart cart={cart} > </Cart>   
+<button onClick={()=>removeItem()} className="select-button"> <p>Remove Item</p></button>
 
-<button className="select-button"> <p>Choose 1 item</p></button>
+
             </div>
         </div>
     );

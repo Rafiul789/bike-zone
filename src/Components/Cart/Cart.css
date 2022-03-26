@@ -1,0 +1,11 @@
+.select-button{
+    border-radius:10px;
+    border:0;
+    background:rgb(230, 100, 77);
+    color:#fff;
+}
+.cart.btn{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:10px;
+}
