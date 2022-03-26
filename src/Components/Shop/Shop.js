@@ -11,10 +11,14 @@ fetch('bikes.json')
 .then(data=>setBikes(data))
 
     },[])
+
+    const handleCart =(bike)=>{
+        console.log('clicked')
+    }
     return (
         <div  className="shop-container">
             <div className="product-container">
-{bikes.map(bike=><Bike key={bike.id} bike={bike} ></Bike>)}
+{bikes.map(bike=><Bike key={bike.id} bike={bike} handleCart={handleCart}  ></Bike>)}
             </div> <div className="order-container">
 <h1>Order</h1>
             </div>
